@@ -1,6 +1,6 @@
 # WebServer - II   -- CTF -- CSCML 2020   // File İnclusion + ELF File Read 
 
-# Flag = CSCML2020{The_secret_of_getting_ahead_is_getting_started}
+### Flag = CSCML2020{The_secret_of_getting_ahead_is_getting_started}
 
 
 
